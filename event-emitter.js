@@ -1,3 +1,3 @@
 import EventEmitter from 'event-emitter';
 
-export default EventEmitter;
+export default new EventEmitter();
