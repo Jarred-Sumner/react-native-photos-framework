@@ -1,2 +1,3 @@
-import { NativeEventEmitter } from 'react-native';
-export default NativeEventEmitter;
+import EventEmitter from 'event-emitter';
+
+export default EventEmitter;
